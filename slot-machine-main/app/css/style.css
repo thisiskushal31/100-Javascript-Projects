@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand');
+
+body{
+    background-color: #a39bd2;
+    min-height: 70vh;
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: hsl(198, 1%, 29%);
+    font-family: 'Gochi Hand', cursive;
+    text-align: center;
+    font-size: 130%;  
+}
+
+/*--------------------
+Button
+--------------------*/
+
+.go {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(127, 206, 119);
+    background-image: none;
+    background-origin: padding-box;
+    background-size: auto;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Gochi Hand', sans-serif;
+    font-size: 32px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    height: 93px;
+    line-height: normal;
+    margin-bottom: 8px;
+    margin-left: 9.28px;
+    margin-right: 9.28px;
+    margin-top: 70px;
+    min-height: 0px;
+    min-width: 208px;
+    outline-width: 0px;
+    padding-bottom: 31px;
+    padding-left: 31px;
+    padding-right: 31px;
+    padding-top: 31px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    transition-delay: 0s;
+    transition-duration: 0.28s;
+    transition-property: box-shadow;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    width: 351.594px;
+    z-index: 0;
+}
+
+a:link, a:hover, a:visited, a:active {
+    text-decoration: none;
+}
+
+
+/*--------------------
+Output
+--------------------*/
+.outputs-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 26px 0px 40px;
+}
+.outputs-wrapper div{
+    height: 100px;
+    width: 100px;
+    background-color: #a1e3e2;
+    border-radius: 5px;
+    color: #ffffff;
+    display: grid;
+    place-items: center;
+    padding: 20px 11px 11px;
+    box-shadow: 0px 3px 4px rgba(0,0,0,0.3);
+}
+span{
+    font-size: 30px;
+    font-weight: 500;
+}
+p{
+    font-size: 14px;
+    color: #707070;
+    font-weight: 400;
+}
