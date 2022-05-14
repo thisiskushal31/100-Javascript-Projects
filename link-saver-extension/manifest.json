@@ -1,0 +1,10 @@
+{
+    "name": "Link Saver",
+    "version": "1.0",
+    "description": "LinkSaver is a chrome extension that saves all your tabs. LinkSave will save all of the tabs in the currently active chrome window into your bookmarks. We created this app to help you keep track of all the tabs you want to read one day.",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}

@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700);
+
+body{	
+    margin:0;
+	background: #c8c8c8;
+    background: linear-gradient(315deg, #f9d29d 0%, #ffd8cb 74%);
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+}
+
+*,:after,:before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ------ Text & Card ------ */
+
+.text {
+    color:#202229;
+    margin: 1rem;
+    text-shadow: 1px 1px 10px rgba(0, 0, 0, .5);
+    font-size: 1.3rem;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.Items {
+    width: 100%;
+    height: 16rem;
+    min-width: 25rem;
+    text-align: center;
+}
+
+/* ------ Input ------ */
+
+.wrapper {
+    margin: 1.25rem;
+    height: 1.75rem;
+    font-size: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.search {
+    padding: 1.5rem;
+    font-size: 18px;
+    width: 90%;
+    height: 100%;
+    max-width: 25rem;
+    height: 2.75rem;
+    color: rgb(138, 136, 136);
+    border: 1px solid #b3b3b3;
+    border-radius: 1.25rem;
+}
+
+/* ------ Button Style ------- */
+
+.wrapper-button{
+    text-align: center;
+    margin: 0.0625rem;
+}
+
+.button{
+	border:none;
+	padding: 0.6rem;
+	border-radius:1rem;
+    background: #1e1e20;
+	margin: 0.8rem;
+	font:500 20px 'Oswald' , sans-serif;
+	color:rgb(189, 184, 184);
+	cursor: pointer;
+}
+
+.button span {
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+}
+  
+.button span:after {
+	content: '\00bb';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -0.1rem;
+	transition: 0.5s;
+}
+  
+.button:hover span {
+	padding-right: 1.2rem;
+}
+  
+.button:hover span:after {
+	opacity: 1;
+	right: 0;
+}
+
+/* ------ Saved link Style ------- */
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #202229;
+}
