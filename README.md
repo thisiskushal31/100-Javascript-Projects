@@ -10,11 +10,11 @@ In this repository you will find a collection of 100 Javascript projects categor
 
 #### Lists of Projects
 
-| Name   | Project Link |
-| ------------- | ------------- |
-| Slot Machine  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/slot-machine) |
-| Age Calculator  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/age-calculator)  |
-| Link Saver Extension | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/link-saver-extension)  |
+| # | Name   | Project Link |
+| -- | ------------- | ------------- |
+| 001 | Slot Machine  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/slot-machine) |
+| 002 | Age Calculator  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/age-calculator)  |
+| 003 | Link Saver Extension | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/link-saver-extension)  |
 
 #### About Me
 
