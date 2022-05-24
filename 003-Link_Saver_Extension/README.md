@@ -16,7 +16,7 @@ cd <folder-path>
 
 - Clone this repository:
 ```
-git clone https://github.com/thisiskushal31/link-saver-extension.git
+git clone <url>
 ```
 
 - Once that's done, open the project on the vs code:
