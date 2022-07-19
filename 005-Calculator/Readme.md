@@ -12,7 +12,7 @@ Things you need to get started:
 
 Use `git clone "repository url"` and you can see the live preview or you see in the given below image `Web Output`:   
 
-![WebOutput](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/004-Analog_Clock/assets/Web_Output.png?raw=true)
+![WebOutput](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/005-Calculator/assets/Calculator_Web_Output.png?raw=true)
 
 ##### File structure   
 
@@ -20,6 +20,6 @@ Use `git clone "repository url"` and you can see the live preview or you see in 
     ├── App                    # Application Source Code    
             ├── css            # Contains all CSS files   
             └── js             # Contains all JS files               
-    ├── Assets
+    ├── assets
     ├── Index.html                                            
     └── README.md   
