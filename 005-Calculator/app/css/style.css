@@ -1,0 +1,124 @@
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background: rgba(9,109,121,0.9024743686537114);
+}
+
+/*--------------------
+Calculator_Body
+--------------------*/
+
+.calc-body{
+    width: 23.313rem;
+    padding: 2.5rem 3.125rem 2.5rem;
+    margin: 6.25rem auto 28.125rem;
+    background-color: #243441;
+    backdrop-filter: blur (10px);
+    border-radius: 1.25rem;
+    position: relative;
+    overflow-x: hidden;
+    -webkit-box-shadow: 0rem 0.625rem 2.5rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0rem 0.625rem 2.5rem rgba(0, 0, 0, 0.1);
+}
+
+/*--------------------
+Result Output Window
+--------------------*/
+
+.result-display{
+    color: white;
+    background-color: #13181d25;
+    height: 5rem;
+    padding: 1.375rem;
+    text-align: right;
+    border-radius: 0.625rem;
+    overflow: hidden;
+}
+
+.calc-display h3,
+.result-display h1{
+    margin: 0;
+    font-weight: 300;
+}
+
+/*--------------------
+Input Output Window
+--------------------*/
+
+.calc-display{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    background-color: #13181d25;
+    color: white;
+    height: 3.75rem;
+    padding: 0rem 0.938rem;
+    text-align: right;
+    margin-top: 1.25rem;
+    border-radius: 0.625rem;
+    overflow: hidden;
+}
+
+/*--------------------
+Button
+--------------------*/
+
+.btn-wrap{
+    margin-top: 0.625rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.btn{
+    padding: 0.625rem;
+    height: 3.438rem;
+    width: 3.438rem;
+    font-size: medium;
+    color: rgb(191, 191, 191);
+    background-color: #243441;
+    border: none;
+    outline: none;
+    margin-top: 0.625rem;
+    border-radius: 0.625rem;
+    box-shadow: 0rem 0.5rem 0.938rem rgba(0, 0, 0, 0.2);
+    transition: all 0.1s ease 0s;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #212b33;
+}
+
+.btn:active{
+    background-color: #13181d;
+    box-shadow: none;
+}
+
+.btn-orange{
+    color: #ED802E;
+}
+
+.btn-lg{
+    width: 7.5rem;
+    background-color: #ED802E;
+    color: #243441;
+}
+
+.btn-lg:hover{
+    background-color: #e3741f;
+}
