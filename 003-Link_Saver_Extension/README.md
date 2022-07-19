@@ -9,7 +9,7 @@ Things you need to get started:
 # Installing
 To get the project running, follow these steps:
 - Create a folder
--Enter/Navigate into that folder
+- Enter/Navigate into that folder
 ```
 cd <folder-path>
 ```
