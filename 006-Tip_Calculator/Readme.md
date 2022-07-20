@@ -1,4 +1,4 @@
-#### Simple JavaScript Tip Calculator
+### Simple JavaScript Tip Calculator
 
 This javascript tip calculator computes the tip amount for various percentages of the service cost, as well as a total amount that includes the tip.     
 
