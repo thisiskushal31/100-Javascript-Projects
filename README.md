@@ -18,7 +18,7 @@ In this repository you will find a collection of 100 Javascript projects categor
 | 003 | Link Saver Extension | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/003-Link_Saver_Extension)  |
 | 004 | Analog Clock | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/004_Analog_Clock)  |
 | 005 | Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/005-Calculator)  |
-| 006 | Tip Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| 006 | Tip Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/006-Tip_Calculator)  |
 | 007 | Gradient Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
 | 008 | Password Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
 | 009 | Random Quote Generator| [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
