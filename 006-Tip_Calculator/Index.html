@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip Calculator</title>
+    <!--Google Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="/app/css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <section>
+            <div class="wrapper">
+                <label for="bill" class="lbl">
+                    Bill
+                </label>
+                <div class="input-box">
+                    <span>$</span>
+                    <input type="number" value="0.00" id="bill" class="val">
+                </div>
+            </div>
+            <div class="wrapper">
+                <span class="lbl">Tip</span>
+                <span id="tip-amount" class="val">
+                    $0
+                </span>
+            </div>
+            <hr>
+            <div class="wrapper">
+                <span class="lbl">Total Amount</span>
+                <span id="total-amount" class="val">
+                    $0
+                </span>
+            </div>
+        </section>
+        <section>
+            <div class="wrapper">
+                <label for="tip" class="lbl"> 
+                    Tip %
+                </label>
+                <span id="tip-percent" class="val">
+                    0
+                </span>
+            </div>
+           <input type="range" min="1" id="tip" value="15">
+           <div class="wrapper">
+               <label for="no-of-people" 
+               class="lbl">
+               No. Of People
+            </label>
+            <span id="split-num" class="val">
+                0
+            </span>
+           </div>
+            <input type="range" min="1" max="15" id="no-of-people" value="1">
+        </section>
+        <section>
+            <div class="wrapper">
+                <span class="lbl">
+                    Tip Per Person
+                </span>
+                <span id="tip-per-person" class="val">
+                    $0
+                </span>
+            </div>
+            <div class="wrapper">
+                <span class="lbl">
+                    Total Per Person
+                </span>
+                <span id="total-per-person" class="val">
+                    $0
+            </span>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>
+<!-- Script -->
+<script src="/app/js/script.js"></script>
