@@ -1,4 +1,4 @@
-#### Simple JavaScript Calculator
+### Simple JavaScript Calculator
 
 This is a simple JavaScript calculator for addition, subtraction, multiplication, and division.     
 
