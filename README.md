@@ -19,55 +19,56 @@ In this repository you will find a collection of 100 Javascript projects categor
 | 004 | Analog Clock | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/004_Analog_Clock)  |
 | 005 | Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/005-Calculator)  |
 | 006 | Tip Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/006-Tip_Calculator)  |
-| 007 | Gradient Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 008 | Password Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 009 | Random Quote Generator| [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 010 | Counter | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 011 | Countdown Timer | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 012 | Grocery List App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 013 | BMI Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 014 | Bouncing Ball Animation | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 015 | JS Form Validation | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 016 | Own Lorem Ipsum | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 017 | Image Slider | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 019 | To Do List | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 020 | Qr Code Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 021 | Weight Convertor | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 022 | Height Convertor | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 023 | Mortgage Loan Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 024 | Digital Clock | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 025 | Word Count | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 026 | Quiz App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 027 | Note App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 028 | Backjack | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 029 | Tic Tac Toe | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 030 | Coin Flip | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 035 | Rock Paper Scissors | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 036 | Whack-a-mole | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 037 | Nunber Guessing | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 038 | Memory Game | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 039 | Space Invaders | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 040 | Car Dodge Game | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 041 | Real-Time Weather App (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 042 | File Sharing App (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 043 | Currency Exchange Rate (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 044 | Email Address Validation (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 045 | Email Automation App (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 046 | Grocery Cart(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 047 | To Do List(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 048 | Quiz App(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 049 | Note App(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 050 | Markdown Preview(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 051 | Reviews(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 052 | Cocktails(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 053 | Menu(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 054 | Tabs(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 055 | Slider(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 056 | Lorem Ipsum Generator(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 057 | Color Shades Generator(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 058 | Stock Photos(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 059 | Movie DB(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
-| 060 | Portfolio Website(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| 007 | Interest Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/)  |
+| ### | Gradient Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Password Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Random Quote Generator| [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Counter | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Countdown Timer | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Grocery List App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | BMI Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Bouncing Ball Animation | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | JS Form Validation | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Own Lorem Ipsum | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Image Slider | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | To Do List | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Qr Code Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Weight Convertor | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Height Convertor | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Mortgage Loan Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Digital Clock | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Word Count | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Quiz App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Note App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Backjack | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Tic Tac Toe | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Coin Flip | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Rock Paper Scissors | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Whack-a-mole | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Nunber Guessing | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Memory Game | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Space Invaders | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Car Dodge Game | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Real-Time Weather App (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | File Sharing App (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Currency Exchange Rate (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Email Address Validation (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Email Automation App (API) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Grocery Cart(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | To Do List(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Quiz App(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Note App(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Markdown Preview(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Reviews(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Cocktails(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Menu(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Tabs(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Slider(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Lorem Ipsum Generator(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Color Shades Generator(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Stock Photos(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Movie DB(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Portfolio Website(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
 
 #### About Me
 
