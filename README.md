@@ -12,7 +12,6 @@ In this repository you will find a collection of 100 Javascript projects categor
 
 | # | Name   | Project Link |
 | -- | ------------- | ------------- |
-| 000 | BoilerPlate  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/000-BoilerPlate) |
 | 001 | Slot Machine  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/001-Slot_Machine) |
 | 002 | Age Calculator  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/002-Age_Calculator)  |
 | 003 | Link Saver Extension | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/003-Link_Saver_Extension)  |
