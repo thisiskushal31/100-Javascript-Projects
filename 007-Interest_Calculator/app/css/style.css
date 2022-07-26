@@ -8,162 +8,131 @@
 html,
 body {
     min-height: 100%;
-    overflow: hidden;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
 }
 
 body {
-    background: linear-gradient(100deg, rgba(69,151,168,1) 4%, rgba(52,141,153,1) 47%, rgba(23,106,116,1) 88%);
-}
-
-div {
-    margin: 0 auto;
-    width: 400px;
-}
-section {
-    background-color: rgba(255,255,255,0.2);
-    box-shadow: 0 0 2px rgba(0,0,0,0.3);
-    margin-bottom: 28px;
-    padding: 28px;
-}
-h1 {
-    font-size: 28px;
-    margin-bottom: 28px;
-}
-label {
-    display: block;
-    margin-bottom: 14px;
-    text-align: right;
-}
-label strong {
-    display: inline-block;
-    font-weight: 600;
-    margin-left: 20px;
-    padding: 0 10px;
-    width: 100px;
-}
-input {
-    border: none;
-    font-size: 18px;
-    height: 42px;
-    line-height: 42px;
-    margin-left: 20px;
-    padding: 0 10px;
-    width: 100px;
+    background: radial-gradient(circle, rgba(69,151,168,1) 4%, rgba(52,141,153,1) 81%, rgba(23,106,116,1) 100%);
 }
 
 /* --------------------
-Calculator_Container
+Heading
 --------------------*/
 
-/* .container {
-    background-color: #ffffff;
-    width: 450px;
-    padding: 50px 40px;
-    border-radius: 10px;
-    position: absolute;
+.heading {
+    color: #ffffff;
+    margin: 2.2rem;
+    text-align: center;
+}
+
+/* --------------------
+Cards_Orentation
+--------------------*/
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 35px 145px;
+    padding: 0;
+}
+
+.cards__item {
+    display: flex;
+    padding: 1rem;
+
+    @media(min-width: 40rem) {
+        width: 50%;
+    }
+
+    @media(min-width: 56rem) {
+        width: 33.3333%;
+    }
+}
+
+/* --------------------
+Calculator_Cards
+--------------------*/
+
+.card {
+    background: #1b1b32;
+    width: 35rem;
+    padding: 3.125rem 2.5rem;
+    border-radius: 0.625rem;
+    position: relative;
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-    box-shadow: 1px 1px 15px -3px rgba(0,0,0,0.75);
-} */
+    box-shadow: 1px 1px 15px -3px rgba(0, 0, 0, 0.75);
+}
 
 /* --------------------
-Wrapper Section Container
+Form
 --------------------*/
 
-/* .wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 12px 0;
-} */
-
-/* --------------------
-Label_Styling 
---------------------*/
-
-/* .lbl {
-    font-size: 16px;
-    color: #44475b;
-    font-weight: 400;
-} */
-
-/* --------------------
-Value_Styling
---------------------*/
-
-/* .val {
-    color: #44475b;
-    font-weight: 500;
-    font-size: 18px;
-} */
-
-/* --------------------
-Label_Styling
---------------------*/
-
-/* .input-box {
-    background-color: #6B7FD7;
-    color: #D0CCD0;
-    padding: 5px;
-} */
-
-/* --------------------
-Input Amount Styling
---------------------*/
-
-/* #bill {
-    background-color: transparent;
+.fieldset {
+    display: grid;
     border: none;
-    outline: none;
-    width: 100px;
-    text-align: right;
-    color: #D0CCD0;
-} */
+    width: 80vw;
+    max-width: 31.25rem;
+    min-width: 18.75rem;
+    padding: 1rem 0;
+    margin: 0 auto;
+    border-radius: 0.625rem;
+}
+
+h1,
+p {
+    color: #ffffff;
+    margin: 0.2rem;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+fieldset:last-of-type {
+    border-bottom: none;
+}
+
+label {
+    text-align: center;
+    color: #ffffff;
+    display: block;
+    margin: 0.5rem 0;
+}
+
+input,
+textarea,
+select {
+    margin: 0.188rem 0;
+    width: 50%;
+    min-height: 2rem;
+}
+
+input,
+textarea {
+    align-self: center;
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+}
 
 /* --------------------
-Line Styling
+Button
 --------------------*/
 
-/* hr {
-    border: none;
-    border-bottom: 1px solid #44475b;
-} */
-
-/* --------------------
-Input Tip_Percentage and Number_of_People Styling
---------------------*/
-
-/* input[type="range"] {
-    width: 100%;
-    cursor: pointer;
+button[type="submit"], input[type="button"] {
+    display: block;
+    color: #ffffff;
+    width: 60%;
+    margin: 0.5rem auto;
+    height: 2rem;
+    font-size: 1.1rem;
+    background: linear-gradient(rgb(63, 63, 63), rgb(25, 25, 49));
+    border-color: whitesmoke;
+    min-width: 18.75rem;
 }
-
-input[type="range"]:not(:last-child) {
-    margin-bottom: 5px;
-}
-
-section:not(:last-child) {
-    margin-bottom: 40px;
-}
-
-section:not(:first-child) {
-    margin-top: 40px;
-} */
-
-/* --------------------
-Tip Output Styling
---------------------*/
-
-/* section:last-child {
-    background-color: #6B7FD7;
-    padding: 5px;
-    border-radius: 5px;
-}
-
-section:last-child .val,
-section:last-child .lbl {
-    color: #333;
-} */

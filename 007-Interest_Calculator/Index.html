@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tip Calculator</title>
+    <title>JavaScript Interest Calculator</title>
     <!--Google Font-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,7 +17,74 @@
 </head>
 
 <body>
-    
+    <h1 class="heading">JavaScript Interest Calculator</h1>
+    <ul class="cards">
+        <li class="cards__item">
+            <div class="card">
+                <form class="wrapper" id="siForm">
+                    <h1>Simple Interest</h1>
+                    <p>A=i+(prt)</p>
+                    <div class="fieldset">
+                        <label for="principalSimple">Principal($):
+                            <input type="text" class="form-input" id="principalSimple"
+                                placeholder="Enter amount without dollar sign">
+                        </label>
+                        <label for="interestSimple">Interest Rate(%):
+                            <input type="text" class="form-input" id="interestSimple" placeholder="Example: 12%">
+                        </label>
+                        <label for="termSimple">Term of Loan(Years):
+                            <input type="text" class="form-input" id="termSimple"
+                                placeholder="Example: 2 (must be in terms of years)">
+                        </label>
+                    </div>
+                    <button type="submit" class="btn btn-primary" id="btnSimple"
+                        onclick="simpleInterest()">Calculate</button>
+                    <div>
+                        <p class="lead mt-3" id="siOutput-01"></p>
+                        <p class="lead mb-3" id="siOutput-02"></p>
+                    </div>
+                    <div class="text-center">
+                        <button class="btn btn-secondary btn-lg" type="submit"
+                            onClick="document.getElementById('siForm').reset()">Reset</button>
+                    </div>
+                </form>
+            </div>
+        </li>
+
+        <li class="cards__item">
+            <div class="card">
+                <form class="wrapper" id="ciForm">
+                    <h1>Compound Interest</h1>
+                    <p>A=p(1+(r/n))^(nt)</p>
+                    <div class="fieldset">
+                        <label for="principalCompound">Principal($):
+                            <input type="text" class="form-field" id="principalCompound"
+                                placeholder="Enter amount without dollar sign">
+                        </label>
+                        <label for="interestCompound">Interest Rate(%):
+                            <input type="text" class="form-field" id="interestCompound" placeholder="Example: 12%">
+                        </label>
+                        <label for="timesCompounded">Times Compounded per Year
+                            <input type="text" class="form-field" id="timesCompounded"
+                                placeholder="Example: 4 (means compounded quarterly)">
+                        </label>
+                        <label for="termCompound">Term of Loan(Years):
+                            <input type="text" class="form-field" id="termCompound"
+                                placeholder="Example: 2 (must be in terms of years)">
+                        </label>
+                    </div>
+                    <button type="submit" id="btnCompound" onclick="compoundInterest()">Submit</button>
+                    <div>
+                        <p class="lead mt-3" id="ciOutput-01"></p>
+                        <p class="lead mb-3" id="ciOutput-02"></p>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" onClick="document.getElementById('ciForm').reset()">Reset</button>
+                    </div>
+                </form>
+            </div>
+        </li>
+    </ul>
 </body>
 
 </html>
