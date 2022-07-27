@@ -13,12 +13,12 @@ In this repository you will find a collection of 100 Javascript projects categor
 | # | Name   | Source Code | Live Project | Status | 
 | -- | ------------- | ------------- | ------------- | ------------- |
 | 001 | Slot Machine  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/001-Slot_Machine) | [Live Project Link](https://codepen.io/thisiskushal31/full/LYdzdLx) | ✅ |
-| 002 | Age Calculator  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/002-Age_Calculator) | [Live Project Link](https://codepen.io/thisiskushal31/) | ✅ |
-| 003 | Link Saver Extension | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/003-Link_Saver_Extension) | [Live Project Link](https://codepen.io/thisiskushal31/) | ✅ |
-| 004 | Analog Clock | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/004_Analog_Clock)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ✅ |
-| 005 | Simple Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/005-Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ✅ |
-| 006 | Tip Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/006-Tip_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ✅ |
-| 007 | Interest Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/007-Interest_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ✅ |
+| 002 | Age Calculator  | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/002-Age_Calculator) | [Live Project Link](https://codepen.io/thisiskushal31/full/vYReaPj) | ✅ |
+| 003 | Link Saver Extension | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/003-Link_Saver_Extension) |  Required to be exported in the browser  | ✅ |
+| 004 | Analog Clock | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/004_Analog_Clock)  | [Live Project Link](https://codepen.io/thisiskushal31/full/ExEweam) | ✅ |
+| 005 | Simple Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/005-Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/yLKzxga) | ✅ |
+| 006 | Tip Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/006-Tip_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/dymVqvj) | ✅ |
+| 007 | Interest Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/007-Interest_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/xxWXarY) | ✅ |
 | ### | Gradient Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Password Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Random Quote Generator| [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |

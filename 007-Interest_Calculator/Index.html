@@ -24,15 +24,13 @@
                     <p>A=i+(prt)</p>
                     <div class="fieldset">
                         <label for="principalSimple">Principal($):
-                            <input type="text" class="form-input" id="principalSimple"
-                                placeholder="Enter amount without dollar sign">
+                            <input type="text" class="form-input" id="principalSimple" placeholder="Enter amount without dollar sign">
                         </label>
                         <label for="interestSimple">Interest Rate(%):
                             <input type="text" class="form-input" id="interestSimple" placeholder="Example: 12%">
                         </label>
                         <label for="termSimple">Term of Loan(Years):
-                            <input type="text" class="form-input" id="termSimple"
-                                placeholder="Example: 2 (must be in terms of years)">
+                            <input type="text" class="form-input" id="termSimple" placeholder="Example: 2 (must be in terms of years)">
                         </label>
                     </div>
                     <button type="submit" class="btn btn-primary" id="btnSimple"
@@ -42,8 +40,7 @@
                         <p class="lead mb-3" id="siOutput-02"></p>
                     </div>
                     <div class="text-center">
-                        <button class="btn btn-secondary btn-lg" type="submit"
-                            onClick="document.getElementById('siForm').reset()">Reset</button>
+                        <button class="btn btn-secondary btn-lg" type="submit" onClick="document.getElementById('siForm').reset()">Reset</button>
                     </div>
                 </form>
             </div>
@@ -71,7 +68,7 @@
                                 placeholder="Example: 2 (must be in terms of years)">
                         </label>
                     </div>
-                    <button type="submit" id="btnCompound" onclick="compoundInterest()">Submit</button>
+                    <button type="submit" id="btnCompound" onclick="compoundInterest()">Calculate</button>
                     <div>
                         <p class="lead mt-3" id="ciOutput-01"></p>
                         <p class="lead mb-3" id="ciOutput-02"></p>
