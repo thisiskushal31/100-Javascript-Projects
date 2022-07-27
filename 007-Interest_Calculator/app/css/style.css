@@ -125,7 +125,8 @@ textarea {
 Button
 --------------------*/
 
-button[type="submit"], input[type="button"] {
+button[type="submit"] {
+    cursor: pointer;
     display: block;
     color: #ffffff;
     width: 60%;
