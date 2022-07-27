@@ -39,11 +39,11 @@ In this repository you will find a collection of 100 Javascript projects categor
 | ### | Word Count | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Quiz App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Note App | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
-| ### | Backjack | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Backjack | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Tic Tac Toe | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Coin Flip | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Rock Paper Scissors | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
-| ### | Whack-a-mole | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  |
+| ### | Whack-a-mole | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Nunber Guessing | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Memory Game | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Space Invaders | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
