@@ -19,7 +19,7 @@ In this repository you will find a collection of 100 Javascript projects categor
 | 005 | Simple Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/005-Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/yLKzxga) | ✅ |
 | 006 | Tip Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/006-Tip_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/dymVqvj) | ✅ |
 | 007 | Interest Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/007-Interest_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/xxWXarY) | ✅ |
-| ### | Gradient Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
+| ### | Gradient Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/008-Gradient_Generator)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Password Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Random Quote Generator| [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Counter | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
