@@ -20,7 +20,7 @@ In this repository you will find a collection of 100 Javascript projects categor
 | 006 | Tip Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/006-Tip_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/dymVqvj) | ✅ |
 | 007 | Interest Calculator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/007-Interest_Calculator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/xxWXarY) | ✅ |
 | 008 | Gradient Generator-I | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/008-Gradient_Generator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/bGvLvVg) | ✅ |
-| 009 | Gradient Generator-II | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/008-Gradient_Generator-1)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ✅ |
+| 009 | Gradient Generator-II | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/008-Gradient_Generator-1)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Password Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Random Quote Generator| [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Counter | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
@@ -70,6 +70,9 @@ In this repository you will find a collection of 100 Javascript projects categor
 | ### | Movie DB(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Portfolio Website(React) | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 
+####  License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thisiskushal31/DTaxy-Ridesharing-app/blob/main/LICENSE) file for details.
 #### About Me
 
 I am CS Undergraduate student learning Web Development and trying out trending technologies.      
