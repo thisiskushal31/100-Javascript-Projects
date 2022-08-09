@@ -63,7 +63,7 @@ input[type="color"]::-webkit-color-swatch {
  App Options Content and Input Box
 --------------------*/
 
-.app-options__content {
+.app-options_content {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -95,7 +95,7 @@ input[type="color"]::-webkit-color-swatch {
     padding-left: 32px
 }
 
-.app-option__input {
+.app-option_input {
     width: 70px;
     height: 30px;
     padding: 0 8px;
@@ -107,7 +107,7 @@ input[type="color"]::-webkit-color-swatch {
     text-align: center
 }
 
-.app-option__input:focus {
+.app-option_input:focus {
     border: 1px solid #1F2667;
     -webkit-box-shadow: 0 0 0px 1.5px #1F2667;
     box-shadow: 0 0 0px 1.5px #1F2667
