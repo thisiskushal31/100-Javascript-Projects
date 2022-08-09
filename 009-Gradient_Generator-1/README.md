@@ -1,6 +1,6 @@
 #### Gradient Generator(Using Three Colours)
 
-CSS Gradient Generator is a small tool that allows you to create a gradient background for your website using two colours and eight predefined directions.    
+CSS Gradient Generator is a small tool that allows you to create a gradient background for your website using three colours and angle and stops in linear gradient.    
 
 #### Prerequisites
 Things you need to get started:
