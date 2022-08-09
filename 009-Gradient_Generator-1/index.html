@@ -6,8 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gradient Generator</title>
-    <!-- Fonts Awesome For Arrows More Details on https://www.w3schools.com/icons/fontawesome_icons_directional.asp -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <!--Google Font-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,51 +17,33 @@
 <body>
     <div class="container">
         <div class="colorSelection">
-            <input type="color" id="colorSelection-a" value="#380036">
-            <input type="color" id="colorSelection-b" value="#0cbaba">
+            <input type="color" id="colorSelection-a" value="#D16BA5">
+            <input type="color" id="colorSelection-b" value="#708ABB">
+            <input type="color" id="colorSelection-c" value="#5FFBF1">
         </div>
-        <div class="arrowButtons">
-            <button onclick="setDirection('to top',this)">
-                <i class="fas fa-arrow-up"></i>
-            </button>
+        <div class="app-options__content">
+            <div class="app-option">
+                <input class="app-option__input" type="number" id= "stop_1" value="0">
+                <input class="app-option__input" type="number" id= "stop_2" value="40">
+                <input class="app-option__input" type="number" id= "stop_3" value="80">
+            </div>
 
-            <button  onclick="setDirection('to bottom',this)">
-                <i class="fas fa-arrow-down"></i>
-            </button>
-
-            <button class="active" onclick="setDirection('to right',this)">
-                <i class="fas fa-arrow-right"></i>
-            </button>
-
-            <button onclick="setDirection('to left',this)">
-                <i class="fas fa-arrow-left"></i>
-            </button>
-
-            <button class="rotate-icon" onclick="setDirection('to top right',this)">
-                <i class="fas fa-arrow-up"></i>
-            </button>
-
-            <button class="rotate-icon" onclick="setDirection('to bottom left',this)">
-                <i class="fas fa-arrow-down"></i>
-            </button>
-
-            <button class="rotate-icon" onclick="setDirection('to bottom right',this)">
-                <i class="fas fa-arrow-right"></i>
-            </button>
-
-            <button class="rotate-icon" onclick="setDirection('to top left',this)">
-                <i class="fas fa-arrow-left"></i>
-            </button>
+            <div class="app-option">
+                <div class="app-option__angles">
+                    <label for="Angle">Angle</label>
+                    <input type="number" class="app-option__input" id="js-angle-input" value="110">
+                </div>
+            </div>
         </div>
-        <button class="toGenerate" id="submit" onclick="generateCode()">Generate</button>
+            <button class="toGenerate" id="submit" onclick="generateCode()">Generate</button>
         <div class="Output">
             <textarea class="codeOutput" id="code" rows="2"></textarea>
             <button class="copyCode" id="copy" onclick="copyText()">Copy</button>
         </div>
-    </div>
+        </div>
 
-    <!-- script -->
-    <script src="app/js/script.js"></script>
+        <!-- script -->
+        <script src="app/js/script.js"></script>
 </body>
 
 </html>

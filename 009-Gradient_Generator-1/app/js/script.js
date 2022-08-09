@@ -1,20 +1,17 @@
 let colorOne = document.getElementById('colorSelection-a');
 let colorTwo = document.getElementById('colorSelection-b');
-let currentDirection = 'to right';
+let colorThree = document.getElementById('colorSelection-c');
+
+let Angle = document.getElementById("js-angle-input");
+let stopOne= document.getElementById("stop_1");
+let stopTwo= document.getElementById("stop_2");
+let stopThree= document.getElementById("stop_3");
+
 let outputCode = document.getElementById('code');
 
-function setDirection(value, _this) {
-    let directions = document.querySelectorAll(".arrowButtons button");
-    for (let i of directions) {
-        i.classList.remove('active');
-    }
-    _this.classList.add('active');
-    currentDirection = value;
-}
-
 function generateCode() {
-    outputCode.value = `background-image: linear-gradient(${currentDirection}, ${colorOne.value}, ${colorTwo.value});`
-    document.getElementsByTagName("BODY")[0].style.backgroundImage = `linear-gradient(${currentDirection}, ${colorOne.value}, ${colorTwo.value})`;
+    outputCode.value = `background-image: linear-gradient(${Angle.value}deg, ${colorOne.value} ${stopOne.value}%, ${colorTwo.value} ${stopTwo.value}%, ${colorThree.value} ${stopThree.value}%);`
+    document.getElementsByTagName("body")[0].style.backgroundImage = `linear-gradient(${Angle.value}deg, ${colorOne.value} ${stopOne.value}%, ${colorTwo.value} ${stopTwo.value}%, ${colorThree.value} ${stopThree.value}%)`;
 }
 
 function copyText() {

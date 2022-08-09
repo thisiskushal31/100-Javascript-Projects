@@ -22,9 +22,10 @@ body {
 /* --------------------
 Container for Generator
 --------------------*/
+
 .container {
     background-color: #ffffff;
-    width: 400px;
+    width: 533px;
     padding: 50px 30px;
     position: absolute;
     transform: translate(-50%, -50%);
@@ -38,6 +39,7 @@ Container for Generator
 /* --------------------
 Color Input Box
 --------------------*/
+
 .colorSelection {
     width: 100%;
     display: flex;
@@ -58,37 +60,63 @@ input[type="color"]::-webkit-color-swatch {
 }
 
 /* --------------------
-Arrow Buttons
+ App Options Content and Input Box
 --------------------*/
-.arrowButtons {
-    width: 100%;
+
+.app-options__content {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-between;
-    margin: 30px 0;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: 10px 0px 0px 26px;
 }
 
-.arrowButtons button {
-    height: 35px;
-    width: 35px;
-    background-color: transparent;
-    border: 2px solid #d5d5dc;
-    border-radius: 5px;
-    cursor: pointer;
+.app-option {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 64px;
+    height: 96px;
 }
 
-.rotate-icon i {
-    transform: rotate(45deg);
+.app-option:nth-child(1),
+.app-option:nth-child(2),
+.app-option:nth-child(3),
+.app-option:nth-child(4) {
+    width: auto
 }
 
-.arrowButtons .active {
-    border: none;
-    background-color: #4a6ee0;
-    color: #ffffff;
+.app-option:not(:first-child) {
+    padding-left: 32px
+}
+
+.app-option__input {
+    width: 70px;
+    height: 30px;
+    padding: 0 8px;
+    margin-left: 12px;
+    border: 1px solid #bbbfc5;
+    border-radius: 6px;
+    -webkit-transition: all 175ms ease-out;
+    transition: all 175ms ease-out;
+    text-align: center
+}
+
+.app-option__input:focus {
+    border: 1px solid #1F2667;
+    -webkit-box-shadow: 0 0 0px 1.5px #1F2667;
+    box-shadow: 0 0 0px 1.5px #1F2667
 }
 
 /* --------------------
 Generate Button
 --------------------*/
+
 .toGenerate {
     font-family: 'Montserrat', sans-serif;
     display: block;
@@ -104,6 +132,7 @@ Generate Button
 /* --------------------
 Code Output and Copy Button
 --------------------*/
+
 .Output {
     background-color: #f0f2fc;
 }
