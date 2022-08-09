@@ -108,9 +108,9 @@ input[type="color"]::-webkit-color-swatch {
 }
 
 .app-option_input:focus {
-    border: 1px solid #1F2667;
-    -webkit-box-shadow: 0 0 0px 1.5px #1F2667;
-    box-shadow: 0 0 0px 1.5px #1F2667
+    border: 1px solid #4a6ee0;
+    -webkit-box-shadow: 0 0 0px 1.5px #4a6ee0;
+    box-shadow: 0 0 0px 1.5px #4a6ee0;
 }
 
 /* --------------------
