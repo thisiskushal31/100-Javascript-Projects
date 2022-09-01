@@ -7,11 +7,28 @@
     <title>Password Generator</title>
     <!-- Stylesheet -->
     <link rel="stylesheet" href="/app/css/style.css">
+    <!--Google Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
 <body>
-    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam a maxime repudiandae 
-    libero iusto illum facere laborum porro corporis nihil ab provident eveniet delectus 
-    cumque beatae culpa, at repellendus officia.
+    <ul class="cards">
+        <li class="cards__item">
+            <div class="card">
+                <form class="wrapper" id="Form">
+                    <h1>Password Generator</h1>
+                    <div class="fieldset">
+                        <input type="text" class="form-input" id="password" placeholder="Password" readonly>
+                    </div>
+                    <div class="Buttons">
+                        <th><div class="btn btn1" onclick="genPassword()">Generate</div></th>
+                        <th><div class="btn btn2" onclick="copyPassword()">Copy</div></th>
+                    </div>
+                </form>
+            </div>
+        </li>
+    </ul>
 </body>
 </html>
 <!-- Script -->
