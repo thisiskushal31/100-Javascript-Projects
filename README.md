@@ -22,6 +22,7 @@ In this repository you will find a collection of 100 Javascript projects categor
 | 008 | Gradient Generator-I | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/008-Gradient_Generator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/bGvLvVg) | ✅ |
 | 009 | Gradient Generator-II | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main/009-Gradient_Generator-1)  | [Live Project Link](https://codepen.io/thisiskushal31/full/wvmXbwy) | ✅ |
 | 010 | Password Generator | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/010-Password_Generator)  | [Live Project Link](https://codepen.io/thisiskushal31/full/yLjLypV) | ✅ |
+| 011 | Image Downloader | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/tree/main/011-Image_Downloader)  | [Live Project Link](https://codepen.io/thisiskushal31/full/yLjLypV) | ✅ |
 | ### | Random Quote Generator| [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Counter | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
 | ### | Countdown Timer | [Click Here](https://github.com/thisiskushal31/100-Javascript-Projects/blob/main)  | [Live Project Link](https://codepen.io/thisiskushal31/) | ⬜ |
