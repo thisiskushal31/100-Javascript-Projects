@@ -9,9 +9,18 @@
     <link rel="stylesheet" href="/app/css/style.css">
 </head>
 <body>
-    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam a maxime repudiandae 
-    libero iusto illum facere laborum porro corporis nihil ab provident eveniet delectus 
-    cumque beatae culpa, at repellendus officia.
+    <div class="main">
+        <div class="image_container" id="image_container">
+            <img class="image" id="imageDownload" src="https://source.unsplash.com/1600x900/?" alt="Image">
+        </div>
+        <div class="search_container" id="form_container">
+            <form class="form" id="a-form" method="" action="">
+                <input class="form__input" id="imageKeyword" type="text" placeholder="Type image keyword here">
+                <button class="form__button button submit" id="search" onclick="imageReplace()">Search</button>
+                <button class="form__button button submit" id="download">Download</button>
+            </form>
+        </div>
+    </div>
 </body>
 </html>
 <!-- Script -->
